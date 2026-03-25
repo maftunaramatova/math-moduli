@@ -1,1 +1,2 @@
-# math-moduli
+# math-moduli-masalalari
+Masalalar yechimi
